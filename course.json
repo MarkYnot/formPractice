@@ -1,0 +1,21 @@
+[
+  {
+    "_id": {
+      "$oid": "650820ffe36319c6a4d68e6e"
+    },
+    "title":"hello3",
+    "description":"hello3",
+    "instructor":"hello3",
+    "duration":"hello3"
+  },
+
+  {
+    "_id": {
+      "$oid": "650820ffe36319c6a4d68e53"
+    },
+    "title":"hello3",
+    "description":"hello3",
+    "instructor":"hello3",
+    "duration":"hello3"
+  }
+]
